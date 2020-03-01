@@ -1,6 +1,6 @@
 # Resume
 > ## **Hassan fathi**
-![CV PIC](https://cdn.dribbble.com/users/813156/screenshots/3557331/profile_pic-01.png)
+![CV PIC](https://drive.google.com/open?id=1eNvXmq_aK663wqT0q63QtBN7s7-C8-uG)
 
 * **Year of Birth :** 1999
 * **e-mail :** devhassanfathi@gmail.com
