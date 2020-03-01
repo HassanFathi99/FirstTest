@@ -1,9 +1,9 @@
 # Resume
-> ## **Hassan fathi**
-![CV PIC](https://drive.google.com/open?id=1eNvXmq_aK663wqT0q63QtBN7s7-C8-uG)
+> ## **Hassan Fathi**
+![CV PIC](cv.png)
 
 * **Year of Birth :** 1999
-* **e-mail :** devhassanfathi@gmail.com
+* **e-mail :** hassan.fathi@ieeecusb.org
 * [GITHUB](devhassanfathi@gmail.com)
 
 # Interests
@@ -13,7 +13,6 @@
 * studying
 
 # Work Experience
- * black horse chairman 2019
  * IEEE Chairman 2020
 # Education
 * **cairo university**, Faculty of Engineering,SBME 
